@@ -11,7 +11,6 @@ request.onreadystatechange = function () {
         var myArr, randNum, imgList = [];
         myArr = JSON.parse(this.responseText);
 
-
         for (var i = 0; i < 10; i++) {
             try {
                 randNum = getRandomIndex();
