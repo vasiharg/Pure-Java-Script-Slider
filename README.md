@@ -1,6 +1,6 @@
 # Pure-Java-Script-Slider
 
-### Technologie Used:
+### Technologies Used:
 
 VS Code
 HTML5 & CSS
