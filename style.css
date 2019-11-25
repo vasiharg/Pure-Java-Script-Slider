@@ -1,0 +1,10 @@
+body{
+    background-color: slategrey; 
+}
+
+.container{
+    color: darkviolet;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 1%;
+}
